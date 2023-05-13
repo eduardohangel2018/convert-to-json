@@ -1,0 +1,15 @@
+Joker   10-03-2019  /Mount/movies/Joker.mxf Todd_Phillips   24696061952
+Parasite 07-11-2019 /Mount/movies/Parasite.mxf  Bong_Joon-ho    35433480192
+Frozen  27-11-2019  /Mount/movies/Frozen.mxf    Jennifer_Lee    49392123904
+Star_Wars   19-12-2019  /Mount/movies/Star_wars.mxf J.J.Abrams 31138512896
+Avengers_EndGame   25-04-2019  /Mount/movies/EndGame.mxf   Anthony_Russo   139586437120
+Fractured   11-10-2019  /Mount/movies/Fractured.mp4  Brad_Anderson  768924486
+1917    18-01-2020  /Mount/movies/1917.mxf  Sam_Mendes  63350767616
+Dumbo   28-03-2019  /Mount/movies/Dumbo.mxf Robert_Rodriguez    76235669504
+Ad_Astra    26-09-2019  /Mount/movies/AdAstra.mxf   James_Gray  95563022336
+Glass   17-01-2019  /Mount/movies/Glass.mxf   46170898432
+El_Hoyo   21-02-2020  /Mount/movies/ElHoyo.mp4  Galder_Gaztelu-Urrutia  657019718
+Nuovo_Cinema_Paradiso   01-01-1988  /Mount/movies/NuovoCinemaParadiso.mkv   Giuseppe_Tornatore    1073741824
+Shazam  04-04-2019  /Mount/movies/Shazam.mxf    David_Sandberg  67645734912
+Us  21-03-2019  /Mount/movies/Us.mxf    Jordan_Peele    71940702208
+Lego_Movie  07-02-2019  /Mount/movies/Lego_Movie.mxf    Mike_Mitchell   93415538688
